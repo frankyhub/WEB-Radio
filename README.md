@@ -11,6 +11,8 @@ sind 20 Radio-Sender gespeichert und sind über den WEB-Server veränderbar.
 
 ![webradio1](https://github.com/frankyhub/WEB-Radio/blob/main/Pics/webradio.jpg)
 
+
+
 WEB-Radio WiFi-Einstellung
 
 
@@ -18,6 +20,7 @@ WEB-Radio WiFi-Einstellung
 
 
 ![webradio2](https://github.com/frankyhub/WEB-Radio/blob/main/Pics/WEBRADIO_AP3.png)
+
 
 
 WEB-Radio LCD Display
@@ -29,8 +32,12 @@ WEB-Radio LCD Display
 ![webradio2](https://github.com/frankyhub/WEB-Radio/blob/main/Pics/webradio2.JPG)
 
 
+
 WEB-Radio Senderliste
+
+
 ![webradio2](https://github.com/frankyhub/WEB-Radio/blob/main/Pics/webradio-sender.png)
+
 
 
 WEB-Radio Verdrahtung

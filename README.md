@@ -9,5 +9,5 @@ Nach dem speichern der Zugangsdaten startet der Mikrocontroller neu und das LCD-
 danach die gewählte Radio-Station an. Viele Radiosender können als MP3-Stream über das Internet gehört werden. In dieser Version 
 sind 20 Radio-Sender gespeichert und sind über den WEB-Server veränderbar.
 
+![webradio1](https://github.com/frankyhub/WEB-Radio/blob/main/Pics/webradio.jpg)
 
-https://github.com/frankyhub/WEB-Radio/blob/main/Pics/webradio.jpg

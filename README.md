@@ -28,7 +28,7 @@ WEB-Radio LCD Display
 
 
 
-WEB-Radio Senderliste
+WEB-Radio WEB-Server Senderliste
 
 
 ![webradio2](https://github.com/frankyhub/WEB-Radio/blob/main/Pics/webradio-sender.png)

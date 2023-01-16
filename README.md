@@ -1,5 +1,5 @@
 # WEB-Radio
-Diese Anleitung beschreibt den Aufbau eines WEB Radios. Über einen Drehgeber Encoder sind 20 Radiostationen wählbar. 
+Dieses Repository beschreibt den Aufbau eines WEB Radios. Über einen Drehgeber Encoder sind 20 Radiostationen wählbar. 
 Die Lautstärke wird direkt über das Poti am Audio-Verstärker eingestellt. Das LCD-Display zeigt die gewählte Radio-Station 
 an und kann über einen WEB-Server abgerufen und verändert werden. Nach dem Einschalten über den Volume-Regler/Schalter sucht 
 der Mikrocontroller nach einer gültigen WLAN-Verbindung und stellt die zuletzt gewählte Radio-Station ein. Liegt keine gültige 

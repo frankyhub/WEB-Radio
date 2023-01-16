@@ -1,6 +1,6 @@
 # WEB-Radio
 
-Dieses Repository beschreibt den Aufbau eines WEB Radios. Über einen Drehgeber Encoder sind 20 Radiostationen wählbar. Die Lautstärke wird direkt über das Poti am Audio-Verstärker eingestellt. Das LCD-Display zeigt die gewählte Radio-Station an. Die Radio-Stationen sind über einen WEB-Server abgeruf- und veränderbar.<br>
+Dieses Repository beinhaltet die Dateien eines WEB Radios. Über einen Drehgeber Encoder sind 20 Radiostationen wählbar. Die Lautstärke wird direkt über das Poti am Audio-Verstärker eingestellt. Das LCD-Display zeigt die gewählte Radio-Station an. Die Radio-Stationen sind über einen WEB-Server abgeruf- und veränderbar.<br>
 Nach dem Einschalten über den Volume-Regler/Schalter, sucht der Mikrocontroller nach einer gültigen WLAN-Verbindung und stellt die zuletzt gewählte Radio-Station ein. Liegt keine gültige WLAN-Verbindung vor, startet der WLAN-Manager. Über die Netzwerkeinstellung des Handys/Tablet kann nach der Auswahl „WEBRADIO“ der WLAN-Manager mit der IP-Adresse 192.168.4.1 aufgerufen werden. Über den WLAN-Manager sind die eigenen WLAN-Zugangsdaten speicherbar. Nach dem speichern der Zugangsdaten startet der Mikrocontroller neu und das LCD-Display zeigt die IP-Adresse des WEB-Servers und danach die gewählte Radio-Station an.
 
 

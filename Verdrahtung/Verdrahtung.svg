@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.9726091"
-     inkscape:cx="785.51599"
-     inkscape:cy="691.43914"
+     inkscape:cx="348.54702"
+     inkscape:cy="398.41289"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -125,6 +125,31 @@
        width="94.074997"
        preserveAspectRatio="none"
        id="image4919" />
+    <g
+       id="g1059-9"
+       transform="matrix(-1,0,0,1,192.6005,2.9583758)">
+      <path
+         style="fill:none;stroke:#f80000;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 179.2708,91.607652 3.1284,-3.128396"
+         id="path92-1" />
+      <path
+         style="fill:none;stroke:#f80000;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 179.40683,91.947696 3.1284,3.1284"
+         id="path92-8-89" />
+    </g>
+    <g
+       id="g1059-7"
+       transform="matrix(-1,0,0,1,192.73652,14.451838)"
+       style="stroke:#030000;stroke-opacity:1">
+      <path
+         style="fill:none;stroke:#030000;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 179.2708,91.607652 3.1284,-3.128396"
+         id="path92-7" />
+      <path
+         style="fill:none;stroke:#030000;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 179.40683,91.947696 3.1284,3.1284"
+         id="path92-8-4" />
+    </g>
     <path
        style="fill:none;stroke:#fefe00;stroke-width:0.698052;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 135.99481,118.68458 v -8.27137 h 102.53045 v -3.27008"
@@ -209,40 +234,40 @@
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="176.03046"
-       y="76.901993"
+       x="186.36777"
+       y="73.093506"
        id="text2334"><tspan
          sodipodi:role="line"
          id="tspan2332"
          style="stroke-width:0.264583"
-         x="176.03046"
-         y="76.901993">Geschaltene +5V </tspan><tspan
+         x="186.36777"
+         y="73.093506">Geschaltene +5V </tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
-         x="176.03046"
-         y="81.311707"
+         x="186.36777"
+         y="77.50322"
          id="tspan3958">von der Unterseite</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
-         x="176.03046"
-         y="85.72142"
+         x="186.36777"
+         y="81.912933"
          id="tspan2336">der Platine an +5V</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
-         x="176.03046"
-         y="90.131134"
+         x="186.36777"
+         y="86.322647"
          id="tspan12346">des ESP32</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
-       x="176.00713"
-       y="100.79534"
+       x="186.58665"
+       y="100.44501"
        id="text7694"><tspan
          sodipodi:role="line"
          id="tspan7692"
          style="stroke-width:0.264583"
-         x="176.00713"
-         y="100.79534">GND ESP32</tspan></text>
+         x="186.58665"
+         y="100.44501">GND ESP32</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 13.329695,106.22951 H 51.41454"
@@ -322,5 +347,29 @@
          style="stroke-width:0.264583"
          x="258.02481"
          y="118.19903">+5V</tspan></text>
+    <g
+       id="g1059">
+      <path
+         style="fill:none;stroke:#f80000;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 179.2708,91.607652 3.1284,-3.128396"
+         id="path92" />
+      <path
+         style="fill:none;stroke:#f80000;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 179.40683,91.947696 3.1284,3.1284"
+         id="path92-8" />
+    </g>
+    <g
+       id="g1059-4"
+       transform="translate(-0.54407115,10.711362)"
+       style="stroke:#020000;stroke-opacity:1">
+      <path
+         style="fill:none;stroke:#020000;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 179.2708,91.607652 3.1284,-3.128396"
+         id="path92-0" />
+      <path
+         style="fill:none;stroke:#020000;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 179.40683,91.947696 3.1284,3.1284"
+         id="path92-8-8" />
+    </g>
   </g>
 </svg>

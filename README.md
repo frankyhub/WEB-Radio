@@ -38,7 +38,7 @@ WEB-Radio WEB-Server Senderliste
 WEB-Radio Verdrahtung
 
 
-![webradio2][(https://github.com/frankyhub/WEB-Radio/blob/main/Verdrahtung/wr_schaltung.png)]
+![webradio2][(https://github.com/frankyhub/WEB-Radio/blob/main/Verdrahtung/wr_schaltung.png)
 
 
 

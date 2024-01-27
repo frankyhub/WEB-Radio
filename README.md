@@ -8,11 +8,9 @@ Nach dem Einschalten über den Volume-Regler/Schalter, sucht der Mikrocontroller
 
 ![webradio1](https://github.com/frankyhub/WEB-Radio/blob/main/Pics/webradio.jpg)
 
-![webradio1](/WEB-Radio/blob/main/Pics/webradio.jpg)
 
 ![webradio1](/Pics/webradio.jpg)
 
-![webradio1](../Pics/webradio.jpg)
 
 
 WEB-Radio WiFi-Einstellung

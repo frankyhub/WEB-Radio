@@ -3,13 +3,13 @@
 void setup_senderList()
 {
   sender.begin("senderlist", false);
-/*
+
   strcpy(stationlist[0].name, sender.getString("n0", " Radio-1ARock").c_str());
   strcpy(stationlist[0].url, sender.getString("u0", "http://stream.1a-webradio.de/saw-rock/").c_str());
   
   strcpy(stationlist[1].name, sender.getString("n1", " RTL-Rock").c_str());
   strcpy(stationlist[1].url, sender.getString("u1", "http://mp3.hitradiort1.c.nmdn.net/rt1rockwl/livestream.mp3").c_str());
- */ 
+ 
   strcpy(stationlist[2].name, sender.getString("n2", " Radio-BOB!").c_str());
   strcpy(stationlist[2].url, sender.getString("u2", "http://streams.radiobob.de/100/mp3-128/streams.radiobob.de/").c_str());
   

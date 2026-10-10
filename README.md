@@ -24,7 +24,7 @@ WEB-Radio WiFi-Einstellung
 <img src="/Pics/WEBRADIO_AP1.png" width="500"> 
 <br> <br>
 
-<img src="/PicsWEBRADIO_AP3.png" width="500"> 
+<img src="/Pics/WEBRADIO_AP3.png" width="500"> 
 <br> <br>
 
 WEB-Radio LCD Display
